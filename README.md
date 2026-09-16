@@ -1,36 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/light.svg">
-
-  <img alt="Sangam Chaurasiya"
-    src="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/light.svg">
+  <img alt="Sangam Chaurasiya" src="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/dark.svg">
 </picture>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-sangam-76e9.vercel.app/api?username=sangamchaurasiya65&show_icons=true&theme=dark"
-    width="100%"
-    alt="GitHub Stats"
-  />
-</div>
 
-[Visit My Profile](https://github.com/sangamchaurasiya65)
 
-<!--
-**sangamchaurasiya65/sangamchaurasiya65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
