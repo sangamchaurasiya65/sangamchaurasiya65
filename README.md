@@ -10,6 +10,14 @@
     src="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/light.svg">
 </picture>
 
+<div align="center">
+  <img
+    src="https://github-readme-stats-sangam-76e9.vercel.app/api?username=sangamchaurasiya65&show_icons=true&theme=dark"
+    width="100%"
+    alt="GitHub Stats"
+  />
+</div>
+
 <!--
 **sangamchaurasiya65/sangamchaurasiya65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
