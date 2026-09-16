@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
+  <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/light.svg">
 
   <img alt="Sangam Chaurasiya"
