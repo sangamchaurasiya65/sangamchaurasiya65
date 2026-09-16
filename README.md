@@ -1,4 +1,14 @@
 ## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/light.svg">
+
+  <img alt="Sangam Chaurasiya"
+    src="https://raw.githubusercontent.com/sangamchaurasiya65/sangamchaurasiya65/main/light.svg">
+</picture>
 
 <!--
 **sangamchaurasiya65/sangamchaurasiya65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
